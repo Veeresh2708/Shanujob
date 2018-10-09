@@ -11,4 +11,5 @@ label("free")
             }
         }
     }
+ githubPush()
 }
