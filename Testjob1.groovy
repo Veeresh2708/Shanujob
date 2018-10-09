@@ -1,1 +1,1 @@
-multibranchPipelineJob("String")
+multibranchPipelineJob("String1")
