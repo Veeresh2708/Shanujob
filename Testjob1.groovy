@@ -1,1 +1,3 @@
-multibranchPipelineJob("String1")
+freeStyleJob("Shanujob") {
+label("free")
+}
