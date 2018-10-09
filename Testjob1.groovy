@@ -1,1 +1,2 @@
-freestyleJob("Shanujob")
+#freestyleJob("Shanujob")
+freeStyleJob(String name)
