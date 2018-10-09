@@ -1,1 +1,1 @@
-freestyle("Shanujob")
+freestyleJob("Shanujob")
