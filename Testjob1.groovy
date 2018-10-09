@@ -1,2 +1,2 @@
-#freestyleJob("Shanujob")
+freeStyleJob("Shanujob")
 freeStyleJob("String")
