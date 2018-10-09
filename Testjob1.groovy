@@ -1,2 +1,1 @@
-freeStyleJob("Shanujob")
-freeStyleJob("String")
+multibranchPipelineJob("String")
