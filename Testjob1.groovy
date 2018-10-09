@@ -11,5 +11,7 @@ label("free")
             }
         }
     }
+      triggers{
  githubPush()
+      }
 }
